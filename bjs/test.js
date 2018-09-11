@@ -106,7 +106,7 @@ $.get('bjs/testTree2.json', function (data) {
                     }
                 },
 
-                initialTreeDepth:1,
+                initialTreeDepth:2,
 
                 leaves: {
                     label: {
